@@ -4,3 +4,5 @@
 <p> O PCA rastreia aplicativos para um conjunto de problemas de compatibilidade conhecidos no Windows 8.    </p>              
 <p> O PCA rastreia os problemas, identifica as correções e fornece uma caixa de diálogo ao usuário com instruções para aplicar uma correção recomendada.  </p>  
 <p> Meu script funciona basicamente dumpando  á memória virtual do processo:explorer.exe, e em seguida o mesmo dump é filtrado via regex.Assim só retornando o valor esperado. </p>
+<p>Exemplo:</p>
+![image](https://github.com/user07777/PcaExplorer/assets/140452913/37ba6af6-3654-44d6-837c-c1283207385d)
